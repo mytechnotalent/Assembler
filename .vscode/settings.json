@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.s": "avrasm",
+        "*.inc": "avrasm"
+    }
+}
