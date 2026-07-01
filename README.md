@@ -117,7 +117,7 @@ This lesson will teach you how to transmit a full string of text over UART by re
 
 -> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/005/lesson.md) to read the lesson and see the code.
 
-### IN DEVELOPMENT 994 MORE LESSONS TO COME
+### IN DEVELOPMENT MORE LESSONS TO COME
 
 <br>
 
